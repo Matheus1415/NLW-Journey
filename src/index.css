@@ -9,17 +9,3 @@
     min-width: 0;
 }
 
-/* Content */
-
-/* Auto layout */
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px 16px 0px 24px;
-gap: 20px;
-
-width: 720px;
-height: 64px;
-
-background: #18181B;
-/* shape */
